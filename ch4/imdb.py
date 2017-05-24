@@ -3,7 +3,7 @@ import json
 import math
 from collections import Counter
 
-API_KEY = 'YOUR_KEY'
+API_KEY = 'cf8db8fc'
 OMDB_URL = 'http://www.omdbapi.com/?apikey=' + API_KEY
 
 
